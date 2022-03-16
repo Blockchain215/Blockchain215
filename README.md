@@ -1,10 +1,14 @@
 <h3 align="left">Hi There👋, </h3>
-<h6 align="left">I'm a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learn and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.</h6>
+<h6 align="left">Hi there,
+Welcome to my profile! I'm a guy who's passionate about the web, numbers, and sales. Was known as a full-stack developer and design for a decade. But for the last 5 years focus on CRO (conversion rate optimization) bringing pure value to clients' projects. 
+If you have eCommerce project drop me a line and let's find out how to increase your ROI!
+Here is a list of skills that I get in my long carrier. 
+</h6>
 
 <p "align="left"> <img src="https://komarev.com/ghpvc/?username=blockchain215&label=Profile%20views&color=0e75b6&style=flat" alt="blockchain215" /> </p>
 
-- 💬 Ask me about Web Development
-
+- 💬 Ask me about **Fullstack web developer, e-commerce developing**
+- 🌱 I’m currently learning **Javascript**
 - 📫 mail: admin@blockchain.com
 
 <h3 align="left">Connect with me:</h3>
