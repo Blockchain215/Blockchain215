@@ -7,8 +7,12 @@ Here is a list of skills that I get in my long carrier.
 
 <p "align="left"> <img src="https://komarev.com/ghpvc/?username=blockchain215&label=Profile%20views&color=0e75b6&style=flat" alt="blockchain215" /> </p>
 
-- 💬 Ask me about **Fullstack web developer, e-commerce developing**
+- 🔭  I’m currently working on **Fullstack web developer**
+
 - 🌱 I’m currently learning **Javascript**
+ 
+- 💬 Ask me about **Anything**
+
 - 📫 mail: margaret.noack87@gmail.com
 
 <h3 align="left">Connect with me:</h3>
