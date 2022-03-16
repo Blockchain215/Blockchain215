@@ -13,14 +13,10 @@ Here is a list of skills that I get in my long carrier.
  
 - 💬 Ask me about **Anything**
 
-- 📫 mail: margaret.noack87@gmail.com
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/blockchain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="blockchain" height="30" width="40" /></a>
-<a href="https://fb.com/blockchain215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="blockchain215" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/blockchain215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="blockchain215" height="30" width="40" /></a>
-</p>
+<h3 align="left">Contact:</h3>
+
+- 📫 mail: margaret.noack87@gmail.com
 
 <h4 align="left">Languages & Data:</h4>
 <p align="left">
