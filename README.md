@@ -9,7 +9,7 @@ Here is a list of skills that I get in my long carrier.
 
 - 💬 Ask me about **Fullstack web developer, e-commerce developing**
 - 🌱 I’m currently learning **Javascript**
-- 📫 mail: admin@blockchain.com
+- 📫 mail: margaret.noack87@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
