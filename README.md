@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Blockchain</h1>
-<h3 align="center">Front End Web developer</h3>
+<h1 align="left">Hi There👋, </h1>
+<h3 align="left">Front End Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blockchain215&label=Profile%20views&color=0e75b6&style=flat" alt="blockchain215" /> </p>
 
