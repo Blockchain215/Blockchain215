@@ -5,7 +5,7 @@ Experienced Developer professional with strong leadership and relationship-build
 
 <p "align="left"> <img src="https://komarev.com/ghpvc/?username=blockchain215&label=Profile%20views&color=0e75b6&style=flat" alt="blockchain215" /> </p>
 
-- 🔭  I’m currently working on **Fullstack web developer**
+- 🔭  I’m currently working on **Blockchain developer**
 
 - 🌱 I’m currently learning **Javascript**
  
