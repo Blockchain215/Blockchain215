@@ -1,8 +1,6 @@
 <h3 align="left">Hi There👋, </h3>
 <h6 align="left">Hi there,
-Welcome to my profile! I'm a guy who's passionate about the web, numbers, and sales. Was known as a full-stack developer and design for a decade. But for the last 5 years focus on CRO (conversion rate optimization) bringing pure value to clients' projects. 
-If you have eCommerce project drop me a line and let's find out how to increase your ROI!
-Here is a list of skills that I get in my long carrier. 
+Experienced Developer professional with strong leadership and relationship-build skills. Certificated Blockchain Developer, developing the Applications in Java using Java and MEAN. Experience in developing the Decentralized Blockchain applications using Ethereum and Hyperledger.
 </h6>
 
 <p "align="left"> <img src="https://komarev.com/ghpvc/?username=blockchain215&label=Profile%20views&color=0e75b6&style=flat" alt="blockchain215" /> </p>
